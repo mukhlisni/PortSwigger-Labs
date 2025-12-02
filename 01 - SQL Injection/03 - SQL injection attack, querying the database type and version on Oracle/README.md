@@ -45,11 +45,11 @@ When using the number 3, the response given is 500 with the description Interval
 From this information, it can be confirmed that there are two columns.
 Next, check whether the input entered will be displayed on the website with a command like this:
 ```sh
-'+UNION+SELECT+'asd','hai'+FROM+DUAL--
+'+UNION+SELECT+'asd','asd'+FROM+DUAL--
 ```
 Since we do not know the name of the table to be used, we will use a dummy table (DUAL). DUAL is a dummy table (special table) used in Oracle Database to perform SELECT without having to read from the actual table.
 
-The result is as follows
+The result is as follows:
 <img width="1456" height="353" alt="Image" src="https://github.com/user-attachments/assets/fce8cb96-b71c-40a2-ae0f-e6b437447c87" />
 
 #### 4. Displaying the database version
