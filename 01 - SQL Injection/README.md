@@ -32,6 +32,7 @@ To find out, use a command like this (use Burp Suite):
 ' ORDER BY 1--
 ```
 <img width="745" height="403" alt="Image" src="https://github.com/user-attachments/assets/099f014f-cdf7-42e0-84b2-77b423ab1ec3" />
+
 Press CTRL + U to convert it to a URL.
 <img width="1481" height="378" alt="Image" src="https://github.com/user-attachments/assets/c26ee442-beb8-40fd-9f46-cdc5cf475e12" />
 
