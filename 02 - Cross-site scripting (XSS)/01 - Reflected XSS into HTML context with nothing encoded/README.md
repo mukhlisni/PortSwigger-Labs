@@ -41,7 +41,7 @@ Next, insert a simple XSS payload into the search input form.
 ```
 <img width="925" height="323" alt="Image" src="https://github.com/user-attachments/assets/a0aa52c1-69d7-4f20-a9cd-26c3501a6df4" />
 
-#### 5. Check the results
+#### 4. Check the results
 When the xss payload is sent, the web page will display a popup alert indicating that the attack was successful.
 If there are no errors, the result will be as shown below.
 <img width="580" height="241" alt="Image" src="https://github.com/user-attachments/assets/a22c74c5-0019-441b-b96b-a74ef5c3c35e" />
